@@ -3,12 +3,11 @@
 
 fruits=['apple','banana','pineapple']
 
-#for i in range(len(fruits)):
-#    print(fruits[i])
-#
-#for fruit in fruits:
-#    print(fruit )
+for i in range(len(fruits)):
+    print(fruits[i])
 
+for fruit in fruits:
+    print(fruit )
 #multiply=[i * 2 for i in range(4)]
 #print(multiply)
 
